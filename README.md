@@ -1,4 +1,4 @@
-# EXP-3---JAVA
+# EXP-3 -> NUMBER OF DAYS
 
 ## AIM :
 TO Write a Java program to find the number of day in a month
